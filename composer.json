@@ -1,0 +1,18 @@
+{
+    "name": "svenanders/codestandards",
+    "type": "application",
+    "description": "My private code standards",
+    "license": "public domain",
+    "authors": [
+        {
+        "name": "Sven Anders Robbestad",
+        "email": "robbestad@gmail.com"
+        }
+    ],
+    "require": {
+    "php": ">=5"
+    },
+    "branch-alias": {
+    "dev-master": "0.1.x-dev"
+    }
+}
