@@ -1,5 +1,5 @@
 {
-    "name": "svenanders/codestandards",
+    "name": "svenanders/sarcodestandard",
     "type": "application",
     "description": "My private code standards",
     "license": "public domain",
@@ -14,5 +14,10 @@
     },
     "branch-alias": {
     "dev-master": "0.1.x-dev"
+    },
+    "autoload": {
+        "classmap": [
+            "Module.php"
+        ]
     }
 }
